@@ -1,5 +1,5 @@
 Hi, I’m @Blockyheadman
-I'm a wannabe game developer that wants to/is learning game design with godot
+I don't have much to say right now :p
 
 <!---
 Blockyheadman/Blockyheadman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
