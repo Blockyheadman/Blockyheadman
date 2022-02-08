@@ -1,5 +1,5 @@
 ## Hi, I’m Blockyheadman
-I don't have much to say right now :p
+I'm bored
 
 <!---
 Blockyheadman/Blockyheadman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
