@@ -15,6 +15,7 @@ I have tons of hobbies and talents/tricks up my sleeve. For example, I've taught
 
 ### Socials
 
+[![Website](https://img.shields.io/badge/Website-Blocky%20Home-00ffd7?style=for-the-badge&logo=Google%20Chrome)](https://blockyheadman.wixsite.com/blocky-home)<br>
 [![YouTube](https://img.shields.io/badge/Youtube-Blockyheadman-ff0000?style=for-the-badge&logo=YouTube)](https://youtube.com/@blockyheadman)
 
 <!---
