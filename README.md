@@ -1,4 +1,21 @@
 ## Hiiii :3
+### I am Blockyheadman
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blockyheadman&show_icons=true&theme=aura)](https://github.com/Blockyheadman)
+
+Welcome to my GitHub page! Let's get started on knowing a little more about me first.
+I am ***(currently learning more to become)*** a solo game developer. I'm currently learning different skills like music creation, art designing, story designing, programming, audio design, etc. I use the Godot game engine and have developed a few different projects with it. Here's some examples.
+
+[![Clikcer](https://img.shields.io/badge/Clikcer-Repo-lightgreen?style=for-the-badge&logo=github)](https://github.com/Blockyheadman/Clikcer)<br>
+[![ClikcerVR](https://img.shields.io/badge/ClikcerVR-Repo-lightblue?style=for-the-badge&logo=github)](https://github.com/Blockyheadman/ClikcerVR)<br>
+[![Sonic Hub PC](https://img.shields.io/badge/Sonic%20Hub-Archive-blue?style=for-the-badge&logo=github)](https://github.com/Blockyheadman/SonicHubPC)
+
+### More About Me
+I have tons of hobbies and talents/tricks up my sleeve. For example, I've taught myself how to play piano, how to program, how to film, and more. I love some gaming in my spare time if i'm not coding. Speaking of which, I code all day, every day. I usually never back away from programming and get super immersed into my coding. And I've heard being a lazy programmer pays off, which is exactly what I am!
+
+### Socials
+
+[![YouTube](https://img.shields.io/badge/Youtube-Blockyheadman-ff0000?style=for-the-badge&logo=YouTube)](https://youtube.com/@blockyheadman)
 
 <!---
 Blockyheadman/Blockyheadman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
