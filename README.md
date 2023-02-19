@@ -6,6 +6,7 @@
 Welcome to my GitHub page! Let's get started on knowing a little more about me first.
 I am ***(currently learning more to become)*** a solo game developer. I'm currently learning different skills like music creation, art designing, story designing, programming, audio design, etc. I use the Godot game engine and have developed a few different projects with it. Here's some examples.
 
+[![BlockyOS](https://img.shields.io/badge/BlockyOS-Repo-5900ff?style=for-the-badge&logo=github)](https://github.com/Blockyheadman/BlockyOS)<br>
 [![Clikcer](https://img.shields.io/badge/Clikcer-Repo-lightgreen?style=for-the-badge&logo=github)](https://github.com/Blockyheadman/Clikcer)<br>
 [![ClikcerVR](https://img.shields.io/badge/ClikcerVR-Repo-lightblue?style=for-the-badge&logo=github)](https://github.com/Blockyheadman/ClikcerVR)<br>
 [![Sonic Hub PC](https://img.shields.io/badge/Sonic%20Hub-Archive-blue?style=for-the-badge&logo=github)](https://github.com/Blockyheadman/SonicHubPC)
