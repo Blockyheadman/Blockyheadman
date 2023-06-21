@@ -4,7 +4,7 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blockyheadman&show_icons=true&theme=aura)](https://github.com/Blockyheadman)
 
 Welcome to my GitHub page! Let's get started on knowing a little more about me first.
-I am ***(currently learning more to become)*** a solo game developer. I'm currently learning different skills like music creation, art designing, story designing, programming, audio design, etc. I use the Godot game engine and have developed a few different projects with it. Here's some examples. I've also started making Android apps as something new to keep me learning about new things.
+I am ***(learning more to become)*** a solo game developer. I'm currently learning different skills like music creation, art designing, story designing, programming, audio design, etc. I use the Godot game engine and have developed a few different projects with it. Here's some examples. I've also started making Android apps as something new to keep me learning about new things.
 
 [![BlockyOS](https://img.shields.io/badge/BlockyOS-Repo-5900ff?style=for-the-badge&logo=github)](https://github.com/Blockyheadman/BlockyOS)<br>
 [![Clikcer](https://img.shields.io/badge/Clikcer-Repo-lightgreen?style=for-the-badge&logo=github)](https://github.com/Blockyheadman/Clikcer)<br>
@@ -12,7 +12,10 @@ I am ***(currently learning more to become)*** a solo game developer. I'm curren
 [![Sonic Hub PC](https://img.shields.io/badge/Sonic%20Hub-Archive-blue?style=for-the-badge&logo=github)](https://github.com/Blockyheadman/SonicHubPC)
 
 ### More About Me
-I have tons of hobbies and talents/tricks up my sleeve. For example, I've taught myself how to play some piano, how to program, how to film, and more. I love some gaming in my spare time if i'm not coding. Speaking of which, I code all day, every day. I usually never back away from programming and get super immersed into my coding. And I've heard being a lazy programmer pays off, which is exactly what I am!
+I have tons of hobbies and talents/tricks up my sleeve. For example, I've taught myself how to play some very basic piano, how to program, how to film, and more. I love some gaming in my spare time if i'm not coding. Speaking of which, I code all day, every day. I usually never back away from programming and get super immersed into my coding. And I've heard being a lazy programmer pays off, which is exactly what I am!
+
+### Languages I Know
+I know English, and some simple German. But for programming, I know some Java, Python, C++, Kotlin, and GDScript. I understand how to write all of those but basic compared to anyone elses abilities.
 
 ### Socials
 
