@@ -12,15 +12,18 @@ I am ***(learning more to become)*** a solo game developer. I'm currently learni
 [![Sonic Hub PC](https://img.shields.io/badge/Sonic%20Hub-Archive-blue?style=for-the-badge&logo=github)](https://github.com/Blockyheadman/SonicHubPC)
 
 ### More About Me
-I have tons of hobbies and talents/tricks up my sleeve. For example, I've taught myself how to play some very basic piano, how to program, how to film, and more. I love some gaming in my spare time if i'm not coding. Speaking of which, I code all day, every day. I usually never back away from programming and get super immersed into my coding. And I've heard being a lazy programmer pays off, which is exactly what I am!
+I have tons of hobbies and talents/tricks up my sleeve. For example, I've taught myself how to play some very basic piano, how to program, how to film, and more. I love some gaming in my spare time if i'm not coding. Speaking of which, I code all day, every day. I usually never back away from programming and get super immersed into it. And I've heard being a lazy programmer pays off, which is exactly what I am!
+
+### Recent News
+Recently, I've joined the [ArcOS](https://github.com/Izk-ArcOS) team and we do some pretty neat stuff there! Check it out! I work there as a part of the core team. I work on some design, I work in ArcTerm and I also help beta test for them. There's also a **[ REDACTED ]** on the way for the ArcOS team and maybe the general public at some point. I highly suggest you check it out sometime soon.
 
 ### Languages I Know
 I know English, and some simple German. But for programming, I know some Java, Python, C++, Kotlin, and GDScript. I understand how to write all of those but basic compared to anyone elses abilities.
 
 ### Socials
-
 [![Website](https://img.shields.io/badge/Website-Blocky%20Home-00ffd7?style=for-the-badge&logo=Google%20Chrome)](https://blockyheadman.wixsite.com/blocky-home)<br>
-[![YouTube](https://img.shields.io/badge/Youtube-Blockyheadman-ff0000?style=for-the-badge&logo=YouTube)](https://youtube.com/@blockyheadman)
+[![YouTube](https://img.shields.io/badge/Youtube-Blockyheadman-ff0000?style=for-the-badge&logo=YouTube)](https://youtube.com/@blockyheadman)<br>
+[![Email](https://img.shields.io/badge/Email-blocky@arcapi.nl-ff0000?style=for-the-badge&logo=Gmail)](mailto:blocky@arcapi.nl)
 
 <!---
 Blockyheadman/Blockyheadman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
