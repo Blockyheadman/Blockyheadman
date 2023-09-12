@@ -23,7 +23,7 @@ I know English, and some simple German and Spanish. But for programming, I know 
 ### Socials
 [![Website](https://img.shields.io/badge/Website-Blocky%20Home-00ffd7?style=for-the-badge&logo=Google%20Chrome)](https://blockyheadman.wixsite.com/blocky-home)<br>
 [![YouTube](https://img.shields.io/badge/Youtube-Blockyheadman-ff0000?style=for-the-badge&logo=YouTube)](https://youtube.com/@blockyheadman)<br>
-[![Email](https://img.shields.io/badge/Email-blocky@arcapi.nl-ff0000?style=for-the-badge&logo=Gmail)](mailto:blocky@arcapi.nl)
+[![Email](https://img.shields.io/badge/Email-blocky@arcapi.nl-24a7ff?style=for-the-badge&logo=Gmail)](mailto:blocky@arcapi.nl)
 
 <!---
 Blockyheadman/Blockyheadman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
