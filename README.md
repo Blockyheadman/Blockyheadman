@@ -1,7 +1,7 @@
 ## Hiiii :3
 ### I am Blockyheadman
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blockyheadman&show_icons=true&theme=aura)](https://github.com/Blockyheadman)
+<!--[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blockyheadman&show_icons=true&theme=aura)](https://github.com/Blockyheadman)-->
 
 Welcome to my GitHub page! Let's get started on knowing a little more about me first.
 I am ***(learning more to become)*** a solo game developer. I'm currently learning different skills like music creation, art designing, story designing, programming, audio design, etc. I use the Godot game engine and have developed a few different projects with it. Here's some examples. I've also started making Android apps as something new to keep me learning about new things.
