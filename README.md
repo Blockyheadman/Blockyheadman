@@ -18,7 +18,7 @@ I have tons of hobbies and talents/tricks up my sleeve. For example, I've taught
 Recently, I've joined the [ArcOS](https://github.com/Izk-ArcOS) team and we do some pretty neat stuff there! Check it out! I work there as a part of the core team. I work on some design, I work in ArcTerm and I also help beta test for them. There's also a **[ REDACTED ]** on the way for the ArcOS team and maybe the general public at some point. I highly suggest you check it out sometime soon.
 
 ### Languages I Know
-I know English, and some simple German. But for programming, I know some Java, Python, C++, Kotlin, and GDScript. I understand how to write all of those but basic compared to anyone elses abilities.
+I know English, and some simple German and Spanish. But for programming, I know some Java, Python, C++, Kotlin, and GDScript. I understand how to write all of those but basic compared to anyone elses abilities.
 
 ### Socials
 [![Website](https://img.shields.io/badge/Website-Blocky%20Home-00ffd7?style=for-the-badge&logo=Google%20Chrome)](https://blockyheadman.wixsite.com/blocky-home)<br>
