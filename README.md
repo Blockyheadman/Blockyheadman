@@ -17,6 +17,8 @@ I have tons of hobbies and talents/tricks up my sleeve. For example, I've taught
 ### Recent News
 Recently, I've joined the [ArcOS](https://github.com/Izk-ArcOS) team and we do some pretty neat stuff there! Check it out! I work there as a part of the core team. I work on some design, I work in ArcTerm, I design some things, I work on documentation, and I also help beta test for them.
 
+I've also begun code golfing! I'll mainly use C++ for the holes but sometimes i'll try other languages like Python and Javascript.
+
 ### Languages I Know
 I know English, and some simple German and Spanish. But for programming, I know some Java, Python, C++, Kotlin, and GDScript. I understand how to write all of those but basic compared to anyone elses abilities.
 
