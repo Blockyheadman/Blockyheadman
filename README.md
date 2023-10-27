@@ -15,7 +15,7 @@ I am ***(learning more to become)*** a solo game developer. I'm currently learni
 I have tons of hobbies and talents/tricks up my sleeve. For example, I've taught myself how to play some very basic piano, how to program, how to film, and more. I love some gaming in my spare time if i'm not coding. Speaking of which, I code all day, every day. I usually never back away from programming and get super immersed into it. And I've heard being a lazy programmer pays off, which is exactly what I am!
 
 ### Recent News
-Recently, I've joined the [ArcOS](https://github.com/Izk-ArcOS) team and we do some pretty neat stuff there! Check it out! I work there as a part of the core team. I work on some design, I work in ArcTerm and I also help beta test for them. There's also a **[ REDACTED ]** on the way for the ArcOS team and maybe the general public at some point. I highly suggest you check it out sometime soon.
+Recently, I've joined the [ArcOS](https://github.com/Izk-ArcOS) team and we do some pretty neat stuff there! Check it out! I work there as a part of the core team. I work on some design, I work in ArcTerm, I design some things, I work on documentation, and I also help beta test for them.
 
 ### Languages I Know
 I know English, and some simple German and Spanish. But for programming, I know some Java, Python, C++, Kotlin, and GDScript. I understand how to write all of those but basic compared to anyone elses abilities.
