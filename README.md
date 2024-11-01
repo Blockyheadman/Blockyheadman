@@ -6,7 +6,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blockyheadman&theme=aura&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Welcome to my GitHub page! Let's get started on knowing a little more about me first.
-I am ***(learning more to become)*** a solo game developer. I'm currently learning different skills like music creation, art designing, story designing, programming, audio design, etc. I use the Godot game engine and have developed a few different projects with it. Here's some examples. I've also started making Android apps as something new to keep me learning about new things.
+I am ***(learning more to become)*** a solo game developer. I'm currently learning different skills like music creation, art designing, story designing, programming, audio design, etc.
+I use the Godot game engine and have developed a few different projects with it. Here's some examples. I've also started making Android apps as something new to keep me learning about new things.
 
 [![BlockyOS](https://img.shields.io/badge/BlockyOS-Repo-5900ff?style=for-the-badge&logo=github)](https://github.com/Blockyheadman/BlockyOS)<br>
 [![Clikcer](https://img.shields.io/badge/Clikcer-Repo-lightgreen?style=for-the-badge&logo=github)](https://github.com/Blockyheadman/Clikcer)<br>
@@ -14,15 +15,19 @@ I am ***(learning more to become)*** a solo game developer. I'm currently learni
 [![Sonic Hub PC](https://img.shields.io/badge/Sonic%20Hub-Archive-blue?style=for-the-badge&logo=github)](https://github.com/Blockyheadman/SonicHubPC)
 
 ### More About Me
-I have tons of hobbies and talents/tricks up my sleeve. For example, I've taught myself how to play some very basic piano, how to program, how to film, and more. I love some gaming in my spare time if i'm not coding. Speaking of which, I code all day, every day. I usually never back away from programming and get super immersed into it. And I've heard being a lazy programmer pays off, which is exactly what I am!
+I have tons of hobbies and talents/tricks up my sleeve. For example, I've taught myself how to play some very basic piano, how to program, how to film, and more.
+I love some gaming in my spare time if i'm not coding. Speaking of which, I code all day, every day.
+I usually never back away from programming and get super immersed into it. And I've heard being a lazy programmer pays off, which is exactly what I am!
 
 ### Recent News
-Recently, I've joined the [ArcOS](https://github.com/Izk-ArcOS) team and we do some pretty neat stuff there! Check it out! I work there as a part of the core team. I work on some design, I work in ArcTerm, I design some things, I work on documentation, and I also help beta test for them.
+I've starting getting more in depth with C++ in private repos. Eventually when these projects are more fleshed out, I plan to release them out to the public for the world to see!
+I'm not sure when they'll be released, especially since I'm really busy currently but we'll see eventually! :)
 
-I've also begun code golfing! I'll mainly use C++ for the holes but sometimes i'll try other languages like Python and Javascript.
+10-31-2024
 
 ### Languages I Know
-I know English, and some simple German and Spanish. But for programming, I know some Java, Python, C++, Kotlin, and GDScript. I understand how to write all of those but basic compared to anyone elses abilities.
+I know English, and some simple Spanish. But for programming, I know some Java, Python, C/C++, Kotlin, GDScript, and WebDev (HTML/CSS/JS && React/TS).
+I understand how to write all of those but basic compared to anyone elses abilities in my opinion.
 
 ### Socials
 [![Website](https://img.shields.io/badge/Website-Blocky%20Home-00ffd7?style=for-the-badge&logo=Google%20Chrome)](https://blockyheadman.wixsite.com/blocky-home)<br>
