@@ -11,7 +11,7 @@ I'm currently learning different skills like music creation, art designing, stor
 I primarily program in just VSCode, but I do use the Godot game engine and have developed a few different projects with it.
 Here's some examples. I've also started making Android and SDL apps to keep me learning about new things.
 
-[![BlockyOS](https://img.shields.io/badge/BlockyOS-Repo-5900ff?style=for-the-badge&logo=github)](https://github.com/Blockyheadman/BlockyOS)<br>
+[![BlockyOS](https://img.shields.io/badge/BlockyOS-Archive-5900ff?style=for-the-badge&logo=github)](https://github.com/Blockyheadman/BlockyOS)<br>
 [![Clikcer](https://img.shields.io/badge/Clikcer-Repo-lightgreen?style=for-the-badge&logo=github)](https://github.com/Blockyheadman/Clikcer)<br>
 [![ClikcerVR](https://img.shields.io/badge/ClikcerVR-Repo-lightblue?style=for-the-badge&logo=github)](https://github.com/Blockyheadman/ClikcerVR)<br>
 [![Sonic Hub PC](https://img.shields.io/badge/Sonic%20Hub-Archive-blue?style=for-the-badge&logo=github)](https://github.com/Blockyheadman/SonicHubPC)
