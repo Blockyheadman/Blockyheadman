@@ -2,9 +2,9 @@
 ### I am Nova Cassio (Blockyheadman)
 
 <!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blockyheadman&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats) -->
-[![GitHub Stats](https://github-readme-stats-jusxvxpp1-blockyheadmans-projects.vercel.app/api?username=Blockyheadman&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://blockyheadman-github-readme-stats.vercel.app/api?username=Blockyheadman&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-jusxvxpp1-blockyheadmans-projects.vercel.app/api/top-langs/?username=Blockyheadman&theme=aura&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://blockyheadman-github-readme-stats.vercel.app/api/top-langs/?username=Blockyheadman&theme=aura&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Welcome to my GitHub page! Let's get started on knowing a little more about me first.
 I am ***(learning more to become)*** a solo game/software developer.
